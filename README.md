@@ -11,6 +11,9 @@ I plan to use issues to ask me questions and to jot the answer once I figgure it
 ## Business
 [Steve Blank Entrepreneurship and Innovation](https://steveblank.com/)
 
+## Tech
+[Implementers, Solvers, and Finders](https://rkoutnik.com/2016/04/21/implementers-solvers-and-finders.html)
+
 ## Product Management
 [RICE Scoring Model](https://www.productplan.com/glossary/rice-scoring-model/): Prioritization framework
 

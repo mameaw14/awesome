@@ -12,7 +12,7 @@ I plan to use issues to ask me questions and to jot the answer once I figgure it
 [Steve Blank Entrepreneurship and Innovation](https://steveblank.com/)
 
 ## Product Management
-[Rice Scoring Model](https://www.productplan.com/glossary/rice-scoring-model/): Prioritization framework
+[RICE Scoring Model](https://www.productplan.com/glossary/rice-scoring-model/): Prioritization framework
 
 
 ## Case Study

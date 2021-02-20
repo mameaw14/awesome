@@ -20,3 +20,15 @@ I plan to use issues to ask me questions and to jot the answer once I figgure it
 
 ## Case Study
 [Lucky Iron Fish](https://www.youtube.com/watch?v=KJM7Nj1DCwk): Example for Design Thinking Process
+
+
+# 📚 Books
+I have read and think it's worth listing
+
+## Design
+[Design for Hackers: Reverse Engineering Beauty / David Kadavy](https://www.amazon.com/Design-Hackers-Reverse-Engineering-Beauty/dp/1119998956)  
+[Refactoring UI](https://refactoringui.com/book/): ⭐️ every frontend developer should read this  
+[The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded-ebook/dp/B00E257T6C): basic book introducing what is UX
+
+## Life
+[The Life-Changing Magic of Tidying Up](https://www.amazon.com/Life-Changing-Magic-Tidying-Decluttering-Organizing/dp/1607747308): my closet is clean ever after read this. my room is clean, my life organized  

@@ -26,9 +26,16 @@ I plan to use issues to ask me questions and to jot the answer once I figgure it
 I have read and think it's worth listing
 
 ## Design
-[Design for Hackers: Reverse Engineering Beauty / David Kadavy](https://www.amazon.com/Design-Hackers-Reverse-Engineering-Beauty/dp/1119998956)  
+[Design for Hackers](https://www.amazon.com/Design-Hackers-Reverse-Engineering-Beauty/dp/1119998956)  
 [Refactoring UI](https://refactoringui.com/book/): ⭐️ every frontend developer should read this  
 [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded-ebook/dp/B00E257T6C): basic book introducing what is UX
 
 ## Life
 [The Life-Changing Magic of Tidying Up](https://www.amazon.com/Life-Changing-Magic-Tidying-Decluttering-Organizing/dp/1607747308): my closet is clean ever after read this. my room is clean, my life organized  
+[How to Be Better at Almost Everything](https://www.amazon.com/How-Be-Better-Almost-Everything/dp/194688541X): teach how to become a generalist
+
+## Software Development
+[The Nature of Software Development](https://www.amazon.com/Nature-Software-Development-Simple-Valuable/dp/1941222374): easy to consume, fun to read
+
+## Etc
+[คิมจียอง เกิดปี 82](https://www.the101.world/kim-ji-young-born-1982-review/): บอกเล่าความเจ็บปวดของผู้หญิงในสังคมชายเป็นใหญ่

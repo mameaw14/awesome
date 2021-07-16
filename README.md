@@ -17,10 +17,11 @@ I plan to use issues to ask me questions and to jot the answer once I figgure it
 ## Product Management
 [RICE Scoring Model](https://www.productplan.com/glossary/rice-scoring-model/): Prioritization framework
 
-
 ## Case Study
 [Lucky Iron Fish](https://www.youtube.com/watch?v=KJM7Nj1DCwk): Example for Design Thinking Process
 
+## Guide
+[Hackathon Guide](https://hackathon.guide/)
 
 # 📚 Books
 I have read and think it's worth listing

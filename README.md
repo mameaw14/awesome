@@ -17,6 +17,7 @@ I plan to use issues to ask me questions and to jot the answer once I figgure it
 ## Product Management
 [RICE Scoring Model](https://www.productplan.com/glossary/rice-scoring-model/): Prioritization framework  
 [The Only Product Strategy framework you need !](https://akashmdubey.medium.com/the-only-product-strategy-framework-you-need-5bf64dedef3e)
+[CX/UX Strategy and Experience Design](https://deltacx.com)
 
 ## Case Study
 [Lucky Iron Fish](https://www.youtube.com/watch?v=KJM7Nj1DCwk): Example for Design Thinking Process

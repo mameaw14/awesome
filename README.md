@@ -12,7 +12,9 @@ I plan to use issues to ask me questions and to jot the answer once I figgure it
 [Steve Blank Entrepreneurship and Innovation](https://steveblank.com/)
 
 ## Tech
-[Implementers, Solvers, and Finders](https://rkoutnik.com/2016/04/21/implementers-solvers-and-finders.html)
+[Implementers, Solvers, and Finders](https://rkoutnik.com/2016/04/21/implementers-solvers-and-finders.html)  
+[Agile Modeling](http://agilemodeling.com/)  
+[Applied Domain-Driven Design (DDD) by ZAN KAVTASKIN](http://www.zankavtaskin.com/2014/12/applied-domain-driven-design-ddd-part-0.html): start from requirements analysis and teach by example
 
 ## Product Management
 [RICE Scoring Model](https://www.productplan.com/glossary/rice-scoring-model/): Prioritization framework  

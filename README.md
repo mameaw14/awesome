@@ -27,6 +27,9 @@ I plan to use issues to ask me questions and to jot the answer once I figgure it
 ## Guide
 [Hackathon Guide](https://hackathon.guide/)
 
+## Etc
+[Color Brewer 2.0](http://colorbrewer2.org)🎨: color for visulization, color for color blind. (originally for maps) 
+
 # 📚 Books
 I have read and think it's worth listing
 

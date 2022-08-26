@@ -27,6 +27,11 @@ I plan to use issues to ask me questions and to jot the answer once I figgure it
 ## Guide
 [Hackathon Guide](https://hackathon.guide/)
 
+## Interview Preparation
+[HackerRank Interview Preparation Kits](https://www.hackerrank.com/interview/preparation-kits)  
+[System Design Interview](https://www.youtube.com/watch?v=bUHFg8CZFws) ⭐️  
+
+
 ## Etc
 [Color Brewer 2.0](http://colorbrewer2.org)🎨: color for visulization, color for color blind. (originally for maps) 
 
@@ -44,11 +49,6 @@ I have read and think it's worth listing
 
 ## Software Development
 [The Nature of Software Development](https://www.amazon.com/Nature-Software-Development-Simple-Valuable/dp/1941222374): easy to consume, fun to read
-
-## Interview Preparation
-[HackerRank Interview Preparation Kits](https://www.hackerrank.com/interview/preparation-kits)  
-[System Design Interview](https://www.youtube.com/watch?v=bUHFg8CZFws) ⭐️  
-
 
 ## Etc
 [คิมจียอง เกิดปี 82](https://www.the101.world/kim-ji-young-born-1982-review/): บอกเล่าความเจ็บปวดของผู้หญิงในสังคมชายเป็นใหญ่

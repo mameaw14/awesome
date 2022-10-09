@@ -25,11 +25,17 @@ I plan to use issues to ask me questions and to jot the answer once I figgure it
 [Listen A Minute](https://listenaminute.com/): A minute conversation with exercises  
 [BBC 6 Minute English](https://www.bbc.co.uk/learningenglish/english/features/6-minute-english): Realistic conversation with transcript to practice listening skill
 
+
+## Techinalcal
+[Multiple GitHub accounts on one laptop](https://dev.to/osipovsimon/multiple-github-accounts-on-one-laptop-2dmg)
+
+
 ## Case Study
 [Lucky Iron Fish](https://www.youtube.com/watch?v=KJM7Nj1DCwk): Example for Design Thinking Process
 
 ## Guide
 [Hackathon Guide](https://hackathon.guide/)
+
 
 ## Interview Preparation
 [HackerRank Interview Preparation Kits](https://www.hackerrank.com/interview/preparation-kits)  

@@ -21,6 +21,10 @@ I plan to use issues to ask me questions and to jot the answer once I figgure it
 [The Only Product Strategy framework you need !](https://akashmdubey.medium.com/the-only-product-strategy-framework-you-need-5bf64dedef3e)  
 [CX/UX Strategy and Experience Design](https://deltacx.com)
 
+## English
+[Listen A Minute](https://listenaminute.com/): A minute conversation with exercises  
+[BBC 6 Minute English](https://www.bbc.co.uk/learningenglish/english/features/6-minute-english): Realistic conversation with transcript to practice listening skill
+
 ## Case Study
 [Lucky Iron Fish](https://www.youtube.com/watch?v=KJM7Nj1DCwk): Example for Design Thinking Process
 

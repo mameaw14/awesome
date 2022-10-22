@@ -16,6 +16,7 @@ I plan to use issues to ask me questions and to jot the answer once I figgure it
 [Agile Modeling](http://agilemodeling.com/)  
 [Applied Domain-Driven Design (DDD) by ZAN KAVTASKIN](http://www.zankavtaskin.com/2014/12/applied-domain-driven-design-ddd-part-0.html): start from requirements analysis and teach by example  
 [The Twelve-Factor App](https://12factor.net): a methodology for building software-as-a-service apps  
+[Software Clown Newsletter](https://codewithoutrules.com/softwareclown/): ⭐️ I have subscribed this newsletter for a while and this is a gem. Open your perspective in tech industry, working tips, etc.  
 
 ## Product Management
 [RICE Scoring Model](https://www.productplan.com/glossary/rice-scoring-model/): Prioritization framework  

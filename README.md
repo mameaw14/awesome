@@ -1,20 +1,22 @@
 # About Me
 
-My name is Mameaw. I will use this to save useful links for me. Product, business, design, development things.
+My name is Mameaw. I use this to save useful links for me. Product, business, design, development things.
 
-I didn't plan structure of this repo yet, if someone have a good idea please tell me in discussion area.
+I didn't plan structure of this repo yet, if someone have a good idea please tell me in the discussion area.
 
 I plan to use issues to ask me questions and to jot the answer once I figgure it out.
 
 
-# Useful Link
+# Useful Link 📌
 ## Business
 [Steve Blank Entrepreneurship and Innovation](https://steveblank.com/)
 
-## Tech
+## Tech 💻
 [Implementers, Solvers, and Finders](https://rkoutnik.com/2016/04/21/implementers-solvers-and-finders.html)  
 [Agile Modeling](http://agilemodeling.com/)  
-[Applied Domain-Driven Design (DDD) by ZAN KAVTASKIN](http://www.zankavtaskin.com/2014/12/applied-domain-driven-design-ddd-part-0.html): start from requirements analysis and teach by example
+[Applied Domain-Driven Design (DDD) by ZAN KAVTASKIN](http://www.zankavtaskin.com/2014/12/applied-domain-driven-design-ddd-part-0.html): start from requirements analysis and teach by example  
+[The Twelve-Factor App](https://12factor.net): a methodology for building software-as-a-service apps  
+[Software Clown Newsletter](https://codewithoutrules.com/softwareclown/): ⭐️ I have subscribed this newsletter for a while and this is a gem. Open your perspective in tech industry, working tips, etc.  
 
 ## Product Management
 [RICE Scoring Model](https://www.productplan.com/glossary/rice-scoring-model/): Prioritization framework  
@@ -34,10 +36,9 @@ I plan to use issues to ask me questions and to jot the answer once I figgure it
 [Lucky Iron Fish](https://www.youtube.com/watch?v=KJM7Nj1DCwk): Example for Design Thinking Process
 
 ## Guide
-[Hackathon Guide](https://hackathon.guide/)
+[Hackathon Guide](https://hackathon.guide/)  
 
-
-## Interview Preparation
+## Interview Preparation 🗣
 [HackerRank Interview Preparation Kits](https://www.hackerrank.com/interview/preparation-kits)  
 [System Design Interview](https://www.youtube.com/watch?v=bUHFg8CZFws) ⭐️  
 

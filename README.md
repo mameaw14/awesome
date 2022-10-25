@@ -26,7 +26,7 @@ I plan to use issues to ask me questions and to jot the answer once I figgure it
 [BBC 6 Minute English](https://www.bbc.co.uk/learningenglish/english/features/6-minute-english): Realistic conversation with transcript to practice listening skill
 
 
-## Techinalcal
+## Techinal
 [Multiple GitHub accounts on one laptop](https://dev.to/osipovsimon/multiple-github-accounts-on-one-laptop-2dmg)
 
 

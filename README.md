@@ -44,7 +44,8 @@ I plan to use issues to ask me questions and to jot the answer once I figgure it
 
 
 ## Etc
-[Color Brewer 2.0](http://colorbrewer2.org)🎨: color for visulization, color for color blind. (originally for maps) 
+[Color Brewer 2.0](http://colorbrewer2.org)🎨: color for visulization, color for color blind. (originally for maps)   
+[CSS Dashed border generator](https://kovart.github.io/dashed-border-generator/)  
 
 # 📚 Books
 I have read and think it's worth listing

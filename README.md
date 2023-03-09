@@ -47,6 +47,7 @@ I plan to use issues to ask me questions and to jot the answer once I figgure it
 [Color Brewer 2.0](http://colorbrewer2.org)🎨: color for visulization, color for color blind. (originally for maps)   
 [CSS Dashed border generator](https://kovart.github.io/dashed-border-generator/)  
 Slide Code Highlighter: [SlidesCodeHighlighter](https://romannurik.github.io/SlidesCodeHighlighter/), [carbon.now.sh](https://carbon.now.sh/)  
+[Monitor Control](https://github.com/MonitorControl/MonitorControl): Control external display's brightness and volume ⭐️  
 
 # 📚 Books
 I have read and think it's worth listing

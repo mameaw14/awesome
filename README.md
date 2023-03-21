@@ -29,7 +29,12 @@ I plan to use issues to ask me questions and to jot the answer once I figgure it
 
 
 ## Techinal
-[Multiple GitHub accounts on one laptop](https://dev.to/osipovsimon/multiple-github-accounts-on-one-laptop-2dmg)
+[Multiple GitHub accounts on one laptop](https://dev.to/osipovsimon/multiple-github-accounts-on-one-laptop-2dmg)  
+[How to use multiple git accounts on the same machine (my version)](https://mameaw14.xyz/blog/how-to-use-multiple-git/)  
+
+
+## Leadership
+[What Is Psychological Safety?](https://hbr.org/2023/02/what-is-psychological-safety)  
 
 
 ## Case Study

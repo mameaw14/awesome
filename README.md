@@ -1,6 +1,6 @@
 # About Me
 
-My name is Mameaw. I use this to save useful links for me. Product, business, design, development things.
+My name is Mameaw. I use this to save useful links for me. Product, business, design, development, music, anything I want to.
 
 I didn't plan structure of this repo yet, if someone have a good idea please tell me in the discussion area.
 
@@ -30,7 +30,7 @@ I plan to use issues to ask me questions and to jot the answer once I figgure it
 [BBC 6 Minute English](https://www.bbc.co.uk/learningenglish/english/features/6-minute-english): Realistic conversation with transcript to practice listening skill
 
 
-## Techinal
+## Technical
 [Multiple GitHub accounts on one laptop](https://dev.to/osipovsimon/multiple-github-accounts-on-one-laptop-2dmg)  
 [How to use multiple git accounts on the same machine (my version)](https://mameaw14.xyz/blog/how-to-use-multiple-git/)  
 
@@ -49,6 +49,13 @@ I plan to use issues to ask me questions and to jot the answer once I figgure it
 [HackerRank Interview Preparation Kits](https://www.hackerrank.com/interview/preparation-kits)  
 [System Design Interview](https://www.youtube.com/watch?v=bUHFg8CZFws) ⭐️  
 
+## Music 🎸♫
+[Piano for All](https://pianoforall.com/): Piano lesson, pretty good lessons structure  
+[Test Your Musical IQ](https://www.themusiclab.org/quizzes/miq): a quiz to test your music IQ  
+[Sight Reading Trainer](https://sightreading.training/)  
+[EQ Ear-Training](https://www.soundgym.co/playground/eq)  
+[Muted.io](https://muted.io/): Music Theory Visualize  
+[Guitar Scale](https://guitarscale.org/): Guitar scales
 
 ## Etc
 [Color Brewer 2.0](http://colorbrewer2.org)🎨: color for visulization, color for color blind. (originally for maps)   

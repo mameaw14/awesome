@@ -48,6 +48,7 @@ I plan to use issues to ask me questions and to jot the answer once I figgure it
 ## Interview Preparation 🗣
 [HackerRank Interview Preparation Kits](https://www.hackerrank.com/interview/preparation-kits)  
 [System Design Interview](https://www.youtube.com/watch?v=bUHFg8CZFws) ⭐️  
+[Abstract class vs Interface](https://www.c-sharpcorner.com/UploadFile/d0e913/abstract-class-interface-two-villains-of-every-interview/)  
 
 ## Music 🎸♫
 [Piano for All](https://pianoforall.com/): Piano lesson, pretty good lessons structure  

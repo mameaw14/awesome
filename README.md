@@ -56,7 +56,8 @@ I plan to use issues to ask me questions and to jot the answer once I figgure it
 [Sight Reading Trainer](https://sightreading.training/)  
 [EQ Ear-Training](https://www.soundgym.co/playground/eq)  
 [Muted.io](https://muted.io/): Music Theory Visualize  
-[Guitar Scale](https://guitarscale.org/): Guitar scales
+[Guitar Scale](https://guitarscale.org/): Guitar scales  
+[Counting Music](http://www.philtulga.com/counter.html)  
 
 ## Etc
 [Color Brewer 2.0](http://colorbrewer2.org)🎨: color for visulization, color for color blind. (originally for maps)   

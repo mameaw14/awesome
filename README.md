@@ -65,6 +65,7 @@ I plan to use issues to ask me questions and to jot the answer once I figgure it
 Slide Code Highlighter: [SlidesCodeHighlighter](https://romannurik.github.io/SlidesCodeHighlighter/), [carbon.now.sh](https://carbon.now.sh/)  
 [Monitor Control](https://github.com/MonitorControl/MonitorControl): Control external display's brightness and volume ⭐️  
 [Tailwind CSS Color Generator](https://uicolors.app/create)  
+[irasutoya.com](https://www.irasutoya.com/):  Japanese Free Clipart  
 
 # 📚 Books
 I have read and think they're worth listing

@@ -54,10 +54,12 @@ I plan to use issues to ask me questions and to jot the answer once I figgure it
 [Piano for All](https://pianoforall.com/): Piano lesson, pretty good lessons structure  
 [Test Your Musical IQ](https://www.themusiclab.org/quizzes/miq): a quiz to test your music IQ  
 [Sight Reading Trainer](https://sightreading.training/)  
+[sightreadingfactory.com](https://www.sightreadingfactory.com/)  
 [EQ Ear-Training](https://www.soundgym.co/playground/eq)  
 [Muted.io](https://muted.io/): Music Theory Visualize  
 [Guitar Scale](https://guitarscale.org/): Guitar scales  
 [Counting Music](http://www.philtulga.com/counter.html)  
+[brokeassguitars.com](https://brokeassguitars.com/)  
 
 ## Etc
 [Color Brewer 2.0](http://colorbrewer2.org)🎨: color for visulization, color for color blind. (originally for maps)   
